@@ -5,7 +5,8 @@ Keep yourself and loved ones safe and never forget to take your meds,
 supplements and vitamins again with MedApp, the easy-to-use and FREE app that helps you remember when to take your pills and manage pill usage.
 <br>
 
-
+# Inspiration:
+since these days most of elderly people forget to take medicines  so this webApp signups the user on the platform and ask them about their Medicines stock and timings and the whenever its there time to take medicine it reminds them through sms.email or notifications apart from this it also keeps the track of amount of medicines left and reminds them when they are about to finish their stock.
 
 ## Team members
 1. Ayush singh -(LIT2019049)
