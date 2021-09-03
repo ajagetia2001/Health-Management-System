@@ -35,9 +35,14 @@ supplements and vitamins again with MedApp, the easy-to-use and FREE app that he
 
 ## Schedule:
 Week 1-Project Description and DB Schema
+
 Week 2-Login/Sign Up
+
 Week 3-FrontEnd Design
+
 Week 4-Routing (Backend)
+
 Week 5-Pdf upload functionality and other backend work
+
 Week 6-Miscellaneous.
 
