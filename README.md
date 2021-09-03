@@ -14,7 +14,7 @@ supplements and vitamins again with MedApp, the easy-to-use and FREE app that he
 4. Aaryan Jagetia -(LIT2019045)
 
 
-## Need to work on:
+## Usage:
 1. Ability to SignUp/SignIn multiple users and store their information in a database.
 2. The password should be encrypted and the password field shouldn't be displayed in the admin panel.
 3. Displaying fields such as details of medicine, remarks and storing it in a database.
